@@ -1,0 +1,6 @@
+![[10.10.11.242]]
+![[00- Easy/Devvortext/Port 80 Webserver|Port 80 Webserver]]
+![[dev.devvortex.htb]]
+![[00- Easy/Devvortext/initial foothold|initial foothold]]
+![[logan]]
+![[00- Easy/analytics/privesc|privesc]]

@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d7e3a8e60e0d376b",
+    "type": "split",
+    "children": [
+      {
+        "id": "11a70cc6d212993b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f35a2fec8ae0c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b67f0b17694f6de1",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ef580bbcc56836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6856cca42ca13d0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f10b492aa5da27c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e46f98a71fb7867d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "right": {
+    "id": "c5681900fe3feed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca3cc6ca8d31fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f1c8834962132c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a093378c9e5be7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ad3118b88d2a92f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ed571eb1f5ef3aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9f35a2fec8ae0c3",
+  "lastOpenFiles": [
+    "10 - Hard/drive/passwords.md",
+    "00- Easy/Inject/10 - Webserver port 8080.md",
+    "ss/Pasted image 20240205093659.png",
+    "00- Easy/Inject/05 - Recon.md",
+    "05 - Medium/Format/11 - Port 3000 Gitea.md",
+    "00- Easy/Inject",
+    "ss/Pasted image 20240204085508.png",
+    "05 - Medium/Format/10 - Port 80.md",
+    "ss/Pasted image 20240204085400.png",
+    "ss/Pasted image 20240204085319.png",
+    "ss/Pasted image 20240204085251.png",
+    "ss/Pasted image 20240204085233.png",
+    "05 - Medium/Format/05 - Recon.md",
+    "ss/Pasted image 20240204084506.png",
+    "ss/Pasted image 20240204084319.png",
+    "05 - Medium/THM - Kitty/05 - Recon.md",
+    "05 - Medium/Format",
+    "05 - Medium/Untitled.canvas",
+    "00- Easy/topology",
+    "05 - Medium/THM - Vulnnet Active/11 - Responder.md",
+    "05 - Medium/THM - Kitty",
+    "05 - Medium/THM - Vulnnet Active/10 - Redis.md",
+    "05 - Medium/THM - Vulnnet Active/05 - Recon.md",
+    "ss/Pasted image 20240127115415.png",
+    "ss/Pasted image 20240127115328.png",
+    "05 - Medium/THM - Vulnnet Active/00 -  Preface.md",
+    "00- Easy/BIzness/Root.md",
+    "05 - Medium/THM - Vulnnet Active",
+    "05 - Medium/monitored/10 - Webserver.md",
+    "05 - Medium/THM - Business Reasons/15 - Initial foothold.md",
+    "05 - Medium/THM - Business Reasons/10 - Webserver.md",
+    "05 - Medium/THM - Business Reasons/05 - Recon.md",
+    "05 - Medium/THM-Umbrella/30 - Initial foothold.md",
+    "05 - Medium/THM - Business Reasons",
+    "05 - Medium/THM-Umbrella/20 - Mysql 3306.md",
+    "05 - Medium/THM-Umbrella/15 - Webserver 8080.md",
+    "05 - Medium/THM-Umbrella/10 - Webserver 5000.md",
+    "05 - Medium/THM - Whyhackme/10 - Webserver.md",
+    "05 - Medium/THM - Whyhackme/05 - Recon.md",
+    "05 - Medium/THM - Whyhackme",
+    "05 - Medium/THM-Umbrella/05 - Recon.md",
+    "05 - Medium/THM-Umbrella",
+    "05 - Medium/monitored/05 - recon.md",
+    "05 - Medium/monitored",
+    "00- Easy/BIzness",
+    "10 - Hard/drive/port 80.md"
+  ]
+}
